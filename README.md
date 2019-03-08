@@ -1,4 +1,5 @@
-# goldbeanapply plugin: 'com.android.application'
+#The apk for your currently selected variant (app 
+goldbeanapply plugin: 'com.android.application'
 apply plugin: 'kotlin-android-extensions'
 apply plugin: 'kotlin-android'
 if (!isDebug()) {
